@@ -78,4 +78,5 @@
 .container .filters .amenities:hover .popover,
 .container .filters .locations:hover .popover {
   display: block;
+  z-index: 10;
 }
